@@ -5,7 +5,9 @@ from PySide6.QtGui import QPixmap, QColor, QPainter, QPen, QColorConstants, QBru
 from PySide6.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QWidget, QPushButton, QHBoxLayout
 
 from random import randint, choice
-
+####################
+# Nom <nom d'utilisateur github>
+# Nom <nom d'utilisateur github>
 
 class RefrAction(QMainWindow):
     def __init__(self):
