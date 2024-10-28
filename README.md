@@ -40,6 +40,7 @@ image à titre indicatif seulement, veuillez lire le détail des requis.
 
 # Critères d'évaluation
 Ce travail pratique compte pour 20% de la note finale.
+Doit être fait en équipe de 2 ou 3 personnes. Pas de travail individuel.
 
 La répartition des points est la suivante:
 - 12 points: dessins sur canevas et interface en général (beauté, clarté, etc)
