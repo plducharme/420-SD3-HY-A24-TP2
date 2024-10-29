@@ -55,7 +55,7 @@ class JeuRefrAction:
             case JeuRefrAction.FIN_TOUR:
                 # dessiner
                 pass
-            case JeuRefrAction.TERMINE:
+            case JeuRefrAction.FIN_PARTIE:
                 # dessiner
                 pass
 
