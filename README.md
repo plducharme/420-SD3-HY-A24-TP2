@@ -131,7 +131,7 @@ La structure du code vous est fournie. Vous pouvez ajouter des méthodes et des 
 - La source lumineuse doit être générée aléatoirement.
   - La position de la source lumineuse doit être:
     - x: entre 50 et 300
-    - y: entre 50 et 150
+    - y: entre 50 et 350
     - angle: 
       - entre 0 et 35 degrés si y < 200
       - entre -35 et 0 degrés si y >= 200
