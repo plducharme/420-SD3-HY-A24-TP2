@@ -48,7 +48,7 @@ La répartition des points est la suivante:
 - 3 points: qualité du code (lisibilité, respect des normes Python, etc)
 
 Éléments de l'interface graphique à inclure:
-- Canevas de grandeur fixe (800x600) pour afficher les éléments du jeu
+- Canevas de grandeur fixe (800x400) pour afficher les éléments du jeu
 - Widget pour soumettre la réponse
 - Widget pour passer au tour suivant
 - La fenêtre doit s'appeler "RéfrAction"
